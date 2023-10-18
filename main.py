@@ -27,6 +27,7 @@ screen.create_rectangle(0, 550, 800, 600, fill="green")
 #hornet's head
 screen.create_oval(85, 450, 115, 500, fill="white")
 screen.create_oval(95, 450, 105, 475, fill="orange")
+screen.create_rectangle(85, 452, 115, 450, fill="orange", outline="orange")
 #hornet's eyes
 screen.create_oval(90, 480, 95, 490, fill="black")
 screen.create_oval(105, 480, 110, 490, fill="black")
