@@ -33,7 +33,7 @@ screen.create_oval(90, 480, 95, 490, fill="black")
 screen.create_oval(105, 480, 110, 490, fill="black")
 #hornet's body
 screen.create_polygon(90, 500, 110, 500, 100, 515, fill="maroon")
-screen.create_polygon(100, 510, 115, 540, 85, 540, fill="maroon")
+screen.create_polygon(100, 505, 115, 540, 85, 540, fill="maroon")
 #hornet's legs
 screen.create_line(95, 540, 95, 560, width=3, fill="black")
 screen.create_line(105, 540, 105, 560, width=3, fill="black")
