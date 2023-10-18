@@ -78,3 +78,4 @@ screen.delete(explosion)
 screen.create_text(85, 400, text="SHAW!", font="Comic 25", fill="white", anchor=W)
 
 screen.update
+input() #This is here to keep the animation on screen after it ends.
